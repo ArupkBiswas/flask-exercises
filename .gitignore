@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Project dependencies
+*.db
+.vscode
+venv
+__pycache__
